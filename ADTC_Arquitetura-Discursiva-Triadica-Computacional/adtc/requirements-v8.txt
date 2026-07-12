@@ -1,0 +1,15 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+openpyxl>=3.1
+matplotlib>=3.8
+tabulate>=0.9
+
+# Recuperação neural opcional
+sentence-transformers>=3.0
+transformers>=4.44
+torch>=2.1
+accelerate>=0.30
+
+# Demo
+Gradio>=4.0

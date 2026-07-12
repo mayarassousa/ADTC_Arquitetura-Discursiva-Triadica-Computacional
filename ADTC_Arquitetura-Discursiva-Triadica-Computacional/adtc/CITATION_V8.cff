@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Se você usar o Pipeline V8 da ADTC, cite a tese e este software."
+title: "ADTC — Pipeline V8 de explicabilidade e auditabilidade"
+type: software
+version: "0.8.0"
+date-released: "2026-07-12"
+authors:
+  - family-names: "Miguel"
+    given-names: "Mayara Sousa"
+    affiliation: "FFLCH, Universidade de São Paulo"
+keywords:
+  - irony detection
+  - discourse analysis
+  - Brazilian Portuguese
+  - explainable AI
+  - auditability
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Arquitetura Discursiva Triádica Computacional"
+  authors:
+    - family-names: "Miguel"
+      given-names: "Mayara Sousa"
+  institution:
+    name: "Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo"
+  year: 2026
